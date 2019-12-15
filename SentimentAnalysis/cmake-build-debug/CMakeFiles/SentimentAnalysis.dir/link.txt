@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SentimentAnalysis.dir/main.cpp.o  -o SentimentAnalysis 
